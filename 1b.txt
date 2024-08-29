@@ -1,1 +1,1 @@
-ln /home/joelthomas/Desktop/IIITB/SS/Hands-on\ List\ 1.pdf softlink2
+ln /home/joelthomas/Desktop/IIITB/SS/Hands-on\ List\ 1.pdf hardlink
